@@ -1,9 +1,9 @@
 {
     "manifest_version": 3,
-    "name": "Force Click Search",
+    "name": "Faster Google Search",
     "version": "1.0",
+    "description": "Perform a Google search with the selected text when pressing Option (or Alt) key and clicking the mouse.",
     "action": {
-      "default_popup": "popup.html",
       "default_icon": {
         "16": "icon16.png",
         "48": "icon48.png",
